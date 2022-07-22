@@ -1,6 +1,6 @@
 # Simulating spins with quantum computers
 
-These files are to accompany arXiv:XXXXX as supplemental material.
+These files are to accompany [arXiv:2207.10567](https://arxiv.org/abs/2207.10567) as supplemental material.
 
 - The Python notebooks import Qiskit, which must be installed locally to run the notebooks. Alternatively, one can upload these notebooks to the IBM Quantum Lab
 
